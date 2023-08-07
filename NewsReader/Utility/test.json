@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Mega Millions jackpot jumps to an estimated $1.55 billion, the third-largest in lottery history - CBS News",
+            "description": "There has not been a Mega Millions jackpot winner since April 18.",
+            "url": "https://www.cbsnews.com/news/mega-millions-jackpot-one-point-five-five-billion-dollars/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/05/20db8344-ce30-47a8-8f59-9f646b9cfb8e/thumbnail/1200x630/6c645aaf3291433689e6019789843625/gettyimages-1576467270.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-05T20:30:00Z",
+            "content": "The Mega Millions jackpot has risen to an estimated $1.55 billion — in what would mark the largest in the game's history — after no winning tickets were sold in Friday's drawing. If the estimate hold… [+2278 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Nick Robertson",
+            "title": "Longtime user ‘super pissed’ after Elon’s ‘X’ takes over his @music handle - The Hill",
+            "description": "The longtime @music account on X, former known as Twitter, had over half a million followers until the company reclaimed the handle on Friday. Now its former owner said he’s “super pissed.” “16 years ago, I created @music and have been running it ever since,”…",
+            "url": "https://thehill.com/policy/technology/4139274-longtime-user-upset-after-musk-takes-over-his-x-handle/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/Elon-Musk-X.png?w=1280",
+            "publishedAt": "2023-08-05T19:15:00Z",
+            "content": "Skip to content\r\nThe longtime @music account on X, former known as Twitter, had over half a million followers until the company reclaimed the handle on Friday. \r\nNow its former owner said he’s “super… [+1041 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lance Lambert",
+            "title": "Home price data: These 10 housing markets are up the most—these 10 are down the most - Fortune",
+            "description": "The best way to describe the housing market over the past year: bifurcated.",
+            "url": "https://fortune.com/2023/08/05/housing-markets-with-biggest-home-price-gains-and-declines-freddie-mac-data/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/Xx9Zd-home-price-shift-between-june-2022-and-june-2023-.png?resize=1200,600",
+            "publishedAt": "2023-08-05T17:23:00Z",
+            "content": "Throughout the nation, the cost of mortgage borrowing has undergone a staggering surge since January 2022, with the average 30-year fixed mortgage rate escalating from a 3-handle to a 7-handle. Never… [+4298 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Abhirup Roy",
+            "title": "EV maker Lucid slashes prices of Air sedan as part of offer amid heating competition - Reuters",
+            "description": "Electric vehicle maker Lucid <a href=\"https://www.reuters.com/markets/companies/LCID.O\" target=\"_blank\">(LCID.O)</a> cut prices of its Air luxury sedans by as much as $12,400 as part of an offer, it said on Saturday, amid rising competition in the U.S. EV ind…",
+            "url": "https://www.reuters.com/business/autos-transportation/ev-maker-lucid-slashes-prices-air-sedan-part-offer-amid-heating-competition-2023-08-05/",
+            "urlToImage": "https://www.reuters.com/resizer/bxgxPzYe-GtK6a6_eRztx_1p5ZQ=/848x444/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X6BLPTQ37JOTRLVCNTJ3CLIUO4.jpg",
+            "publishedAt": "2023-08-05T17:11:00Z",
+            "content": "SAN FRANCISCO, Aug 5 (Reuters) - Electric vehicle maker Lucid (LCID.O) cut prices of its Air luxury sedans by as much as $12,400 as part of an offer, it said on Saturday, amid rising competition in t… [+1731 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MICHAEL LIEDTKE",
+            "title": "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan - The Associated Press",
+            "description": "An Associated Press reporter recalls the first time he took a ride in a car without sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked up the reporter outside a San Francisco bar. The half-hour ride was g…",
+            "url": "https://apnews.com/article/selfdriving-cars-taxi-robotaxis-cruise-waymo-b09b2ebd5d130d48154e5f4b27f6f358",
+            "urlToImage": "https://dims.apnews.com/dims4/default/761288b/2147483647/strip/true/crop/3725x2095+0+194/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Ff3%2F6f4207213ce04aaa2ea72f627429%2Fac864953bdd8486699d2fc528fcc23f2",
+            "publishedAt": "2023-08-05T16:21:00Z",
+            "content": "SAN FRANCISCO (AP) I wont forget the first time I took a ride in a car without anyone sitting in the drivers seat.\r\nIt happened one night last September when a Chevy Bolt named Peaches picked me up o… [+5981 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Stempel",
+            "title": "Berkshire posts record operating profit as rising rates boost Buffett's returns - Reuters",
+            "description": "Berkshire Hathaway <a href=\"https://www.reuters.com/markets/companies/BRKa.N\" target=\"_blank\">(BRKa.N)</a> on Saturday posted its highest ever quarterly operating profit, while gains from stock holdings helped the conglomerate led by billionaire Warren Buffet…",
+            "url": "https://www.reuters.com/business/berkshire-posts-record-operating-profit-359-billion-net-income-2023-08-05/",
+            "urlToImage": "https://www.reuters.com/resizer/a4gXd6zJZDuAPkmsjgiCpKalDFo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KXQDIM4P5ZOLVNJKHXNELEVELE.jpg",
+            "publishedAt": "2023-08-05T16:15:00Z",
+            "content": "Aug 5 (Reuters) - Berkshire Hathaway (BRKa.N) on Saturday posted its highest ever quarterly operating profit, while gains from stock holdings helped the conglomerate led by billionaire Warren Buffett… [+4667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFLA"
+            },
+            "author": "Nathaniel Rodriguez",
+            "title": "Man charged with bringing gun to Tampa International Airport identified - WFLA",
+            "description": "The Tampa International Airport identified the man who caused an evacuation of Airside F after getting caught with a gun.",
+            "url": "https://www.wfla.com/news/hillsborough-county/man-charged-with-bringing-gun-to-tampa-international-airport-identified/",
+            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2023/06/GettyImages-599379846.jpg?w=1280",
+            "publishedAt": "2023-08-05T15:49:31Z",
+            "content": "TAMPA, Fla. (WFLA) The Tampa International Airport identified the man who caused an evacuation of Airside F after getting caught with a gun.\r\nAccording to a Saturday release, the man was Abraham Othm… [+884 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Saudis Boost Most Oil Prices to Asia, Europe as Market Tightens - Bloomberg",
+            "description": "Saudi Arabia raised nearly all oil prices for September to Asia and Europe as supply restrictions and rising demand tightens the crude market.",
+            "url": "https://www.bloomberg.com/news/articles/2023-08-05/saudis-boost-most-oil-prices-to-asia-europe-as-market-tightens",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iARvS1P7x9x0/v1/1200x800.jpg",
+            "publishedAt": "2023-08-05T15:30:18Z",
+            "content": "Saudi Arabia raised nearly all oil prices for September to Asia and Europe as supply restrictions and rising demand tightens the crude market.\r\nState-owned Saudi Aramco raised the price for Arab Ligh… [+264 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Tara Suter",
+            "title": "Wells Fargo customers report missing deposits from bank accounts - The Hill",
+            "description": "Wells Fargo customers are reporting the disappearance of direct deposits in their accounts. On X, the platform formerly known as Twitter, users complained about their disappearing funds. One bank customer said they saw the news about the problem right as they…",
+            "url": "https://thehill.com/business/4139099-wells-fargo-customers-report-missing-deposits-from-bank-accounts/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/banks_092116ap_ripping-off.jpg?w=1280",
+            "publishedAt": "2023-08-05T15:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "Astra lays off, reassigns employees as it refocuses on satellite propulsion - SpaceNews",
+            "description": "Astra Space announced Aug. 4 it has laid off a quarter of its workforce and reassigned others from launch vehicle to satellite propulsion development.",
+            "url": "https://spacenews.com/astra-lays-off-reassigns-employees-as-it-refocuses-on-satellite-propulsion/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/05/astra-rocket4.jpg",
+            "publishedAt": "2023-08-05T14:34:24Z",
+            "content": "SEATTLE Astra Space announced Aug. 4 it has laid off a quarter of its workforce and reassigned others from launch vehicle to satellite propulsion development as its cash reserves dwindle.\r\nIn a serie… [+4472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Outkick.com"
+            },
+            "author": "Zach Dean",
+            "title": "Laid Off Bud Light Workers Already Finding Work At 'Pro-American' Companies - Outkick",
+            "description": "Laid of Anheuser-Busch and Bud Light workers are already finding work at self-described \"Pro-American\" companies.",
+            "url": "https://www.outkick.com/laid-off-bud-light-workers-already-finding-work-at-pro-american-companies/",
+            "urlToImage": "https://www.outkick.com/wp-content/uploads/Bud-Light-59.jpg",
+            "publishedAt": "2023-08-05T14:07:05Z",
+            "content": "Laid of Anheuser-Busch and Bud Light workers are already finding work at self-described “Pro-American” companies. \r\nWhen one door closes, they say …\r\nWe hope that this results in more and more positi… [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Megan Sauer, Ernestine Siu",
+            "title": "This 32-year-old scaled her side hustle into a business on track to bring in $3 million — here's how - CNBC",
+            "description": "Jamie Inlow started her side hustle out of her neighbor's barn in 2019. Now, her property management company oversees over 100 rentals and brings in millions.",
+            "url": "https://www.cnbc.com/2023/08/05/jamie-inlow-scaled-side-hustle-into-a-business-bringing-in-millions.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107282161-1691165700330-230714-mi-09-himi-inlow-properties-hero2.jpg?v=1691244001&w=1920&h=1080",
+            "publishedAt": "2023-08-05T14:00:01Z",
+            "content": "In 2019, Jamie Stark Inlow left her 9-to-5 higher education job and moved to a mini farm in Scottsville, Virginia, to spend more time with her husband and son.\r\nShe picked up higher education consult… [+7882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "One Mile at a Time"
+            },
+            "author": "Ben Schlappig",
+            "title": "United Flyer Threatened With No Fly List Over Nice Gesture From Flight Attendant - One Mile at a Time",
+            "description": "A United Airlines Premier 1K member was served manicotti in economy as a nice gesture, leading to a threat of being put on the no fly list.",
+            "url": "https://onemileatatime.com/news/united-flyer-threatened-no-fly-list/",
+            "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2022/03/United-737-MAX-First-Class-18.jpeg",
+            "publishedAt": "2023-08-05T13:32:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ines Ferré",
+            "title": "The stock market's next challenge: August doldrums - Yahoo Finance",
+            "description": "Seasonal trends point to a weak August for stocks.",
+            "url": "https://finance.yahoo.com/news/the-stock-markets-next-challenge-august-doldrums-130811503.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8O0IFSxHeJI961YAer0xGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/5d54bd20-3249-11ee-b1e9-304f2723b270",
+            "publishedAt": "2023-08-05T13:08:11Z",
+            "content": "The stock market has soared so far this year, but expect the month of August to be lackluster if the past several decades are any guide.\r\nAugust is the second-worst month for the S&amp;P 500 (^GSPC) … [+2511 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Harriet Clarfelt",
+            "title": "Investors warm to riskiest US corporate debt - Financial Times",
+            "description": "Lowest-rated junk bonds benefit from ‘soft landing’ hopes for world’s biggest economy",
+            "url": "https://www.ft.com/content/d86fb004-df5c-4f80-8dfc-04efac03bd92",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8afb510-021c-4161-b268-41081a9b07ef.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-08-05T13:00:10Z",
+            "content": "Investors are warming to the riskiest US corporate debt, as optimism about the state of the worlds biggest economy narrows the gulf between the top and bottom rungs of the $1.35tn junk bond market.\r\n… [+2297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lori Ann LaRocco",
+            "title": "Canadian West Coast port workers vote yes to ratify a tentative deal. Railroad congestion continues - CNBC",
+            "description": "Most of the International Longshore and Warehouse Union of Canada members voted in favor of accepting the tentative agreement with West Coast ports management.",
+            "url": "https://www.cnbc.com/2023/08/05/canadian-west-coast-port-workers-vote-yes-to-ratify-a-tentative-deal-railroad-congestion-continues.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107270429-1689175529770-gettyimages-1208065686-VANCOUVER_PORT.jpeg?v=1691239183&w=1920&h=1080",
+            "publishedAt": "2023-08-05T12:39:43Z",
+            "content": "Members of the International Longshore and Warehouse Union (ILWU) of Canada voted to ratify the second tentative agreement with West Coast port ownership, meaning an end to the uncertainty and trade … [+5295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Tilly Armstrong Consumer",
+            "title": "Seeing double! Mexican fast food chain is a complete knock-off of California's In-N-Out - Daily Mail",
+            "description": "The burger restaurant in the state of Sinaloa, Mexico, has gone viral on social media due to its resemblance to the iconic west coast chain, and its cheeky name 'In-I-Nout'.",
+            "url": "https://www.dailymail.co.uk/news/article-12374201/Seeing-double-Mexican-fast-food-chain-complete-knock-Californias-N-Out.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/08/04/19/73977365-0-image-a-20_1691173990376.jpg",
+            "publishedAt": "2023-08-05T11:50:03Z",
+            "content": "A Mexican fast food joint has opened which is a complete knock-off of California's beloved In-N-Out. \r\nThe burger restaurant in the state of Sinaloa, Mexico, has gone viral on social media due to its… [+3680 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Illinois' connection to disaster-proof dome homes - Axios",
+            "description": null,
+            "url": "https://www.axios.com/local/chicago/2023/08/05/illinois-dome-home-construction-cost",
+            "urlToImage": null,
+            "publishedAt": "2023-08-05T11:18:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Are Compact Fluorescent Lightbulbs Being Banned? - CNET",
+            "description": "The White House is looking to phase out CFLs by 2025. But some states aren't waiting that long.",
+            "url": "https://www.cnet.com/home/kitchen-and-household/are-compact-fluorescent-lightbulbs-being-banned/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/527cfbc831f834861f98a5a5e05430562baae984/hub/2023/08/04/699d2290-d154-4c1a-8946-69229641194f/gettyimages-1159840959.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-08-05T11:00:00Z",
+            "content": "With the sale of incandescent lightbulbs effectively banned in the US, compact fluorescent lightbulbs, or CFLs, are next on the chopping block: In December 2022, the Biden administration proposed reg… [+3761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Factbox-India's measures targeting Chinese products and investment - Yahoo",
+            "description": "India said on Friday it would defer the imposition of a licensing requirement for imports of laptops, tablets and personal computers by three months...",
+            "url": "https://sg.finance.yahoo.com/news/factbox-indias-measures-targeting-chinese-105913179.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/4cbda3fc9e0d789c09e6f314324f0fd8",
+            "publishedAt": "2023-08-05T10:59:13Z",
+            "content": "NEW DELHI (Reuters) - India said on Friday it would defer the imposition of a licensing requirement for imports of laptops, tablets and personal computers by three months - partially reversing the su… [+2066 chars]"
+        }
+    ]
+}

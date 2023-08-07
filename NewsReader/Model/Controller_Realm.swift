@@ -10,19 +10,17 @@ import RealmSwift
 class Controller_Realm {
    static let shared = Controller_Realm()
    //MARK: Cashed
-    func setCashed(_ cash:Data){
+    func setCashed(_ cash:Data) throws{
         let cashed = CashRelam()
         cashed.time = Date.now
         cashed.cashedData = cash
         cashed._id = UUID().uuidString
-        do{
-            let realm = try Realm()
-            try realm.write {
-                let d = realm.objects(CashRelam.self)
-                realm.delete(d)
-                realm.add(cashed)
-            }
-        }catch{print(error)}
+        let realm = try Realm()
+        try realm.write {
+            let d = realm.objects(CashRelam.self)
+            realm.delete(d)
+            realm.add(cashed)
+        }
     }
     func getCashed()->CashRelam?{
         do{
@@ -34,17 +32,16 @@ class Controller_Realm {
     }
     //MARK: Bookmark
 
-    func saveBookmark(_ bookmark:Data){
+    func saveBookmark(_ bookmark:Data) throws{
         let cashed = BookmarkRelam()
         cashed.time = Date.now
         cashed.cashedData = bookmark
         cashed._id = UUID().uuidString
-        do{
-            let realm = try Realm()
-            try realm.write {
-                realm.add(cashed)
-            }
-        }catch{print(error)}
+        
+        let realm = try Realm()
+        try realm.write {
+            realm.add(cashed)
+        }
     }
     func getALLBookmark()->[BookmarkRelam]{
         do{

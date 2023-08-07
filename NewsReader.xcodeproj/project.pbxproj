@@ -16,6 +16,9 @@
 		D552F16E2A786FAC0090331C /* FillterComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = D552F16D2A786FAC0090331C /* FillterComponent.swift */; };
 		D552F1722A787CF00090331C /* CashRelam.swift in Sources */ = {isa = PBXBuildFile; fileRef = D552F1712A787CF00090331C /* CashRelam.swift */; };
 		D552F1742A7880460090331C /* BookmarkRelam.swift in Sources */ = {isa = PBXBuildFile; fileRef = D552F1732A7880460090331C /* BookmarkRelam.swift */; };
+		D56A66752A80736F002ED599 /* ViewModel_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56A66742A80736F002ED599 /* ViewModel_Test.swift */; };
+		D56A667D2A80793F002ED599 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = D56A667C2A80793F002ED599 /* Realm */; };
+		D56A667F2A808A7E002ED599 /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = D56A667E2A808A7E002ED599 /* test.json */; };
 		D5A84BB42A76FB0B007A24C8 /* NewsReaderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A84BB32A76FB0B007A24C8 /* NewsReaderApp.swift */; };
 		D5A84BB62A76FB0B007A24C8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A84BB52A76FB0B007A24C8 /* ContentView.swift */; };
 		D5A84BB82A76FB0C007A24C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5A84BB72A76FB0C007A24C8 /* Assets.xcassets */; };
@@ -30,6 +33,16 @@
 		D5A84BD92A7732E4007A24C8 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A84BD82A7732E4007A24C8 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		D56A666F2A8071CF002ED599 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D5A84BA82A76FB0B007A24C8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D5A84BAF2A76FB0B007A24C8;
+			remoteInfo = NewsReader;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		D552F1602A7852E00090331C /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		D552F1622A7863D90090331C /* ArticleItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleItem.swift; sourceTree = "<group>"; };
@@ -40,6 +53,9 @@
 		D552F16D2A786FAC0090331C /* FillterComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillterComponent.swift; sourceTree = "<group>"; };
 		D552F1712A787CF00090331C /* CashRelam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashRelam.swift; sourceTree = "<group>"; };
 		D552F1732A7880460090331C /* BookmarkRelam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkRelam.swift; sourceTree = "<group>"; };
+		D56A666B2A8071CF002ED599 /* NewsReader_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsReader_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D56A66742A80736F002ED599 /* ViewModel_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel_Test.swift; sourceTree = "<group>"; };
+		D56A667E2A808A7E002ED599 /* test.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = test.json; sourceTree = "<group>"; };
 		D5A84BB02A76FB0B007A24C8 /* NewsReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5A84BB32A76FB0B007A24C8 /* NewsReaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsReaderApp.swift; sourceTree = "<group>"; };
 		D5A84BB52A76FB0B007A24C8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +69,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		D56A66682A8071CF002ED599 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D56A667D2A80793F002ED599 /* Realm in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D5A84BAD2A76FB0B007A24C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -77,11 +101,28 @@
 			path = Component;
 			sourceTree = "<group>";
 		};
+		D56A666C2A8071CF002ED599 /* NewsReader_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				D56A66742A80736F002ED599 /* ViewModel_Test.swift */,
+			);
+			path = NewsReader_Tests;
+			sourceTree = "<group>";
+		};
+		D56A667B2A80793F002ED599 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		D5A84BA72A76FB0B007A24C8 = {
 			isa = PBXGroup;
 			children = (
 				D5A84BB22A76FB0B007A24C8 /* NewsReader */,
+				D56A666C2A8071CF002ED599 /* NewsReader_Tests */,
 				D5A84BB12A76FB0B007A24C8 /* Products */,
+				D56A667B2A80793F002ED599 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -89,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				D5A84BB02A76FB0B007A24C8 /* NewsReader.app */,
+				D56A666B2A8071CF002ED599 /* NewsReader_Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -150,6 +192,7 @@
 		D5A84BC42A76FB35007A24C8 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
+				D56A667E2A808A7E002ED599 /* test.json */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -174,6 +217,27 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		D56A666A2A8071CF002ED599 /* NewsReader_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D56A66732A8071CF002ED599 /* Build configuration list for PBXNativeTarget "NewsReader_Tests" */;
+			buildPhases = (
+				D56A66672A8071CF002ED599 /* Sources */,
+				D56A66682A8071CF002ED599 /* Frameworks */,
+				D56A66692A8071CF002ED599 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D56A66702A8071CF002ED599 /* PBXTargetDependency */,
+			);
+			name = NewsReader_Tests;
+			packageProductDependencies = (
+				D56A667C2A80793F002ED599 /* Realm */,
+			);
+			productName = NewsReader_Tests;
+			productReference = D56A666B2A8071CF002ED599 /* NewsReader_Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		D5A84BAF2A76FB0B007A24C8 /* NewsReader */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = D5A84BBE2A76FB0C007A24C8 /* Build configuration list for PBXNativeTarget "NewsReader" */;
@@ -206,6 +270,10 @@
 				LastSwiftUpdateCheck = 1430;
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
+					D56A666A2A8071CF002ED599 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = D5A84BAF2A76FB0B007A24C8;
+					};
 					D5A84BAF2A76FB0B007A24C8 = {
 						CreatedOnToolsVersion = 14.3.1;
 					};
@@ -229,15 +297,24 @@
 			projectRoot = "";
 			targets = (
 				D5A84BAF2A76FB0B007A24C8 /* NewsReader */,
+				D56A666A2A8071CF002ED599 /* NewsReader_Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		D56A66692A8071CF002ED599 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D5A84BAE2A76FB0B007A24C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D56A667F2A808A7E002ED599 /* test.json in Resources */,
 				D5A84BBB2A76FB0C007A24C8 /* Preview Assets.xcassets in Resources */,
 				D5A84BB82A76FB0C007A24C8 /* Assets.xcassets in Resources */,
 			);
@@ -246,6 +323,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		D56A66672A8071CF002ED599 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D56A66752A80736F002ED599 /* ViewModel_Test.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D5A84BAC2A76FB0B007A24C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -271,7 +356,51 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		D56A66702A8071CF002ED599 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D5A84BAF2A76FB0B007A24C8 /* NewsReader */;
+			targetProxy = D56A666F2A8071CF002ED599 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		D56A66712A8071CF002ED599 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SB52S4673U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.asemelkhouli.NewsReader-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NewsReader.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NewsReader";
+			};
+			name = Debug;
+		};
+		D56A66722A8071CF002ED599 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SB52S4673U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.asemelkhouli.NewsReader-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NewsReader.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NewsReader";
+			};
+			name = Release;
+		};
 		D5A84BBC2A76FB0C007A24C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -447,6 +576,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		D56A66732A8071CF002ED599 /* Build configuration list for PBXNativeTarget "NewsReader_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D56A66712A8071CF002ED599 /* Debug */,
+				D56A66722A8071CF002ED599 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		D5A84BAB2A76FB0B007A24C8 /* Build configuration list for PBXProject "NewsReader" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -487,6 +625,11 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		D56A667C2A80793F002ED599 /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D5A84BC52A76FCA9007A24C8 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
 		D5A84BC62A76FCA9007A24C8 /* Realm */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = D5A84BC52A76FCA9007A24C8 /* XCRemoteSwiftPackageReference "realm-swift" */;
